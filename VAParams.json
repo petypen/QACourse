@@ -102,7 +102,7 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"F:\\QACourse\\features\\Модуль 4\\External",
-		"D:\\OneDrive\\PEN\\REPO\\OPENSOURCE\\vanessa-automation\\features\\Libraries"
+		"F:\\vanessa-automation\\features\\Libraries"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
@@ -151,7 +151,7 @@
 	"СпособСнятияСкриншотовВнешнейКомпонентой": 0,
 	"ДелатьСкриншотПриВозникновенииОшибки": true,
 	"СниматьСкриншотКаждогоОкна1С": false,
-	"КаталогВыгрузкиСкриншотов": "D:\\OneDrive\\Фотографии\\Снимки экрана",
+	"КаталогВыгрузкиСкриншотов": "F:\\Screen",
 	"КаталогПроекта": "F:\\QACourse\\features",
 	"КаталогКешОзвучкиДляИнтерактивнойСправки": "F:\\vanessa-automation\\HelpTTS",
 	"СоздаватьФайлыОзвучкиДляСправки": false,
